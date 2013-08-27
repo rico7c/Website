@@ -1,0 +1,45 @@
+/*Example
+.button{
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center
+} This isn't being used yet.*/
+title{
+
+}
+
+div{
+	border-radius: 5px;
+	border:1px solid black; /* this will change colours/color*/ 
+}
+
+#navbar ul { 
+	margin: 0; 
+	padding: 5px; 
+	list-style-type: none; 
+	text-align: center; 
+	} 
+ 
+#navbar ul li {  
+	display: inline; 
+	} 
+ 
+#navbar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	} 
+
+#navbar ul li a:hover { 
+
+	} 
+.game {
+	width:200px;
+	height:200px;
+	padding:5px;
+  	border-width:1px;
+  	display:inline-block;
+  }
